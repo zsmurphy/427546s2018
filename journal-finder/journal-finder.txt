@@ -1,0 +1,262 @@
+Journal 1: ACM Transactions on Graphics
+
+Reference 1:
+
+@article {Huang:2017:LLS:3151031.3137609,
+author = "Huang, Haibin and Kalogerakis, Evangelos and Chaudhuri, Siddhartha and Ceylan, Duygu and Kim, Vladimir G. and Yumer, Ersin",
+title = "Learning Local Shape Descriptors from Part Correspondences with Multiview Convolutional Networks",
+journal = "ACM Trans. Graph.",
+issue_date = "January 2018",
+volume = "37",
+number = "1",
+month = "nov",
+year = "2017",
+issn = "0730-0301",
+pages = "6:1--6:14",
+articleno = "6",
+numpages = "14",
+url = "http://doi.acm.org/10.1145/3137609",
+doi = "10.1145/3137609",
+acmid = "3137609",
+publisher = "ACM",
+address = "New York, NY, USA",
+keywords = "Local 3D shape descriptors, convolutional networks, shape matching"
+}
+
+Reference 2:
+
+@article {Hill:2016:EFS:2882845.2879177,
+author = "Hill, David J. and Henderson, Ronald D.",
+title = "Efficient Fluid Simulation on the Surface of a Sphere",
+journal = "ACM Trans. Graph.",
+issue_date = "May 2016",
+volume = "35",
+number = "2",
+month = "apr",
+year = "2016",
+issn = "0730-0301",
+pages = "16:1--16:9",
+articleno = "16",
+numpages = "9",
+url = "http://doi.acm.org/10.1145/2879177",
+doi = "10.1145/2879177",
+acmid = "2879177",
+publisher = "ACM",
+address = "New York, NY, USA",
+keywords = "Flow on a surface, art directable simulation, coordinate singularity, parallel computing"
+}
+
+Journal 2: IEEE Transactions on Visualization and Computer Graphics
+
+Reference 1: 
+
+@article {7847429,
+author = "S. Kim and S. Jeong and I. Woo and Y. Jang and R. Maciejewski and D. S. Ebert",
+journal = "IEEE Transactions on Visualization and Computer Graphics",
+title = "Data Flow Analysis and Visualization for Spatiotemporal Statistical Data without Trajectory Information",
+year = "2018",
+volume = "24",
+number = "3",
+pages = "1287-1300",
+keywords = "Data visualization;Spatiotemporal phenomena;Gravity;Trajectory;Data mining;Market research;Heating",
+doi = "10.1109/TVCG.2017.2666146",
+url = "doi.ieeecomputersociety.org/10.1109/TVCG.2017.2666146",
+issn = "1077-2626",
+month = "March"
+}
+
+Reference 2:
+
+@article {,
+author = "M. R. Morris and S. A. Paul and D. Fisher and P. Isenberg and K. Inkpen and M. Czerwinski",
+journal = "IEEE Transactions on Visualization and Computer Graphics",
+title = "Co-Located Collaborative Visual Analytics around a Tabletop Display",
+year = "2012",
+volume = "18",
+pages = "689-702",
+keywords = "problem solving;computer displays;data analysis;data visualisation;groupware;problem solving systems;colocated collaborative visual analytics;complex visual analytics task;digital tabletop display;Cambiera system;observations;system logs;questionnaires;interview data;collaboration style;team collaboration;team communication;Collaboration;Visual analytics;Data visualization;Problem-solving;Collaborative work;Context;Keyboards;complex problem solving.;Co-located collaboration;tabletop displays;collaborative information visualization",
+doi = "10.1109/TVCG.2011.287",
+url = "doi.ieeecomputersociety.org/10.1109/TVCG.2011.287",
+issn = "1077-2626",
+month = "05"
+}
+
+Journal 3: IEEE Computer Graphics and Applications
+
+Reference 1:
+
+@article {8255772,
+author = "N. Nilsson and T. Peck and G. Bruder and E. Hodgson and S. Serafin and E. Suma and M. Whitton and F. Steinicke",
+journal = "IEEE Computer Graphics and Applications",
+title = "15 Years of Research on Redirected Walking in Immersive Virtual Environments",
+year = "2018",
+volume = "PP",
+number = "99",
+pages = "1-1",
+keywords = "Computer architecture;Legged locomotion;Object recognition;Safety;Space exploration;Virtual environments;artificial, augmented, and virtual realities;computer graphics;computing methodologies;interaction techniques;methodology and techniques;multimedia information systems information interfaces and rep;three-dimensional graphics and realism;virtual reality",
+doi = "10.1109/MCG.2018.111125628",
+issn = "0272-1716"
+}
+
+Reference 2:
+
+@article {279047,
+author = "G. W. Gill",
+journal = "IEEE Computer Graphics and Applications",
+title = "N-step incremental straight-line algorithms",
+year = "1994",
+volume = "14",
+number = "3",
+pages = "66-72",
+keywords = "computer graphics;N-step incremental straight-line algorithms;adjacent pixels;calculation overhead;color frame buffer;decision tree sizes;hand-coding;inner loop overhead;integer straight-line algorithm;line drawing efficiency;memory accesses;memory speed;multi-word burst data instructions;performance improvement;processor speed;quad-step algorithm;Acceleration;Arithmetic;Australia;Computer displays;Computer graphics;Counting circuits;Equations;Microprocessors;Reduced instruction set computing;Testing",
+doi = "10.1109/38.279047",
+issn = "0272-1716",
+month = "May"
+}
+
+Journal 4: ACM SIGGRAPH Computer Graphics
+
+Reference 1:
+
+@article {Wright:2011:PLI:1982562.1982569,
+author = "Wright, Ernie",
+title = "Preparing for a Lunar Impact",
+journal = "SIGGRAPH Comput. Graph.",
+issue_date = "February 2011",
+volume = "45",
+number = "1",
+month = "feb",
+year = "2011",
+issn = "0097-8930",
+pages = "4:1--4:9",
+articleno = "4",
+numpages = "9",
+url = "http://doi.acm.org/10.1145/1982562.1982569",
+doi = "10.1145/1982562.1982569",
+acmid = "1982569",
+publisher = "ACM",
+address = "New York, NY, USA"
+}
+
+Reference 2:
+
+@article {Rhoden:1989:HAW:74334.74339,
+author = "Rhoden, D. and Wilcox, C.",
+title = "Hardware Acceleration for Window Systems",
+journal = "SIGGRAPH Comput. Graph.",
+issue_date = "July 1989",
+volume = "23",
+number = "3",
+month = "jul",
+year = "1989",
+issn = "0097-8930",
+pages = "61--67",
+numpages = "7",
+url = "http://doi.acm.org/10.1145/74334.74339",
+doi = "10.1145/74334.74339",
+acmid = "74339",
+publisher = "ACM",
+address = "New York, NY, USA"
+}
+
+Journal 5: Computers and Graphics
+
+Reference 1:
+
+@article {NEUKOM201814,
+title = "Real-time GIS-based snow cover approximation and rendering for large terrains",
+journal = "Computers & Graphics",
+volume = "71",
+pages = "14 - 22",
+year = "2018",
+issn = "0097-8493",
+doi = "https://doi.org/10.1016/j.cag.2017.10.003",
+url = "http://www.sciencedirect.com/science/article/pii/S0097849317301693",
+author = "Benjamin Neukom and Stefan Müller Arisona and Simon Schubiger",
+keywords = "Real-time visualization, Snow approximation, GIS, GPGPU, Game engine"
+}
+
+Reference 2:
+
+@article {LU201892,
+title = "Planar cubic G1 and quintic G2 Hermite interpolations via curvature variation minimization",
+journal = "Computers & Graphics",
+volume = "70",
+pages = "92 - 98",
+year = "2018",
+note = "CAD/Graphics 2017",
+issn = "0097-8493",
+doi = "https://doi.org/10.1016/j.cag.2017.07.007",
+url = "http://www.sciencedirect.com/science/article/pii/S0097849317301000",
+author = "Lizheng Lu and Chengkai Jiang and Qianqian Hu",
+keywords = "Hermite interpolation, Geometric continuity, Fair curve, Curvature variation, Polynomial representation"
+}
+
+Journal 6: Computer Graphics Forum
+
+Reference 1:
+
+@article {CGF:CGF12996,
+author = "Steiner, B. and Mousavian, E. and Saradj, F. Mehdizadeh and Wimmer, M. and Musialski, P.",
+title = "Integrated Structural–Architectural Design for Interactive Planning",
+journal = "Computer Graphics Forum",
+volume = "36",
+number = "8",
+issn = "1467-8659",
+url = "http://dx.doi.org/10.1111/cgf.12996",
+doi = "10.1111/cgf.12996",
+pages = "80--94",
+keywords = "integrated architectural design, structural analysis, structural optimization, building planning, interactive design, I.3.5 [Computer Graphics]: Computational Geometry and Object Modelling—Modelling packages Computer Applications J. 6 Computer-aided Engineerings—Computer-aided design",
+year = "2017"
+}
+
+Reference 2:
+
+@article {CGF:CGF13104,
+author = "Hua, Binh-Son and Gruson, Adrien and Nowrouzezahrai, Derek and Hachisuka, Toshiya",
+title = "Gradient-Domain Photon Density Estimation",
+journal = "Computer Graphics Forum",
+volume = "36",
+number = "2",
+issn = "1467-8659",
+url = "http://dx.doi.org/10.1111/cgf.13104",
+doi = "10.1111/cgf.13104",
+pages = "31--38",
+keywords = "Categories and Subject Descriptors (according to ACM CCS), I.3.7 [Computer Graphics]: 3D Graphics & Realism—Raytracing",
+year = "2017"
+}
+
+Journal 7: Visual Computer
+
+Reference 1:
+
+@article {Mbelwa2018,
+author = "Mbelwa, Jimmy T. and Zhao, Qingjie and Lu, Yao and Liu, Hao and Wang, Fasheng and Mbise, Mercy",
+title = "Objectness-based smoothing stochastic sampling and coherence approximate nearest neighbor for visual tracking",
+journal = "The Visual Computer",
+year = "2018",
+month = "Jan",
+day = "23",
+abstract = "In visual tracking, most of the tracking methods suffer from abrupt motions. To address this problem, we propose a novel method for tracking abrupt motions using objectness embedded in smoothing stochastic sampling and improved Tree coherency approximate nearest neighbor. An improved coherence approximate nearest neighbor is utilized to estimate the promising regions as prior knowledge. Moreover, objectness is employed as an objectness proposal function for handling dynamic motions. Finally, both prior knowledge and objectness proposal are integrated into the smoothing stochastic approximate Monte Carlo to predict a new state of the target object. Experimental comparison with other tracking methods and proposed method was carried on some of the challenging video sequences. Experimental results demonstrate that our proposed method outperforms other state-of-the-art tracking methods for dealing with abrupt motions in terms of effectiveness and robustness.",
+issn = "1432-2315",
+doi = "10.1007/s00371-018-1470-5",
+url = "https://doi.org/10.1007/s00371-018-1470-5"
+}
+
+Reference 2:
+
+@article {Li2017,
+author = "Li, Rui and Liu, Lei and Sheng, Yun and Zhang, Guixu",
+title = "A heuristic convexity measure for 3D meshes",
+journal = "The Visual Computer",
+year = "2017",
+month = "Jun",
+day = "01",
+volume = "33",
+number = "6",
+pages = "903--912",
+abstract = "In this paper we propose a heuristic convexity measure for 3D meshes. Built upon a state-of-the-art convexity measure that employs a time-consuming genetic algorithm for optimization, our new measure projects only once a given 3D mesh onto the orthogonal 2D planes along its principal directions for an initial estimation of mesh convexity, followed by a correction calculation based on mesh slicing. Our measure experimentally shows several advantages over the state-of-the-art one: first, it accelerates the overall computation by approximately an order of magnitude; second, it properly handles those bony meshes usually overestimated by the state-of-the-art measure; third, it improves the accuracy of the state-of-the-art measure in 3D mesh retrieval.",
+issn = "1432-2315",
+doi = "10.1007/s00371-017-1385-6",
+url = "https://doi.org/10.1007/s00371-017-1385-6"
+}
