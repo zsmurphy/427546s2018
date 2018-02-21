@@ -1,0 +1,71 @@
+/* y = mx + b ... x = (y - b)/m */
+/* midpoint algorithm for a line */
+function line()
+{
+	// TEST CODE //
+	var c = document.getElementById('canvas');
+	var ctx = c.getContext('2d');
+	
+	ctx.beginPath();
+	ctx.moteTo(0, 0);
+	ctx.lineTo(300, 150);
+	ctx.stroke();
+	// TEST CODE //
+	
+	/* get two points (x1, y1) & (x2, y2) */
+	
+	
+	/* (x2 + x1)/2 = xm */
+	
+	
+	/* (y2 + y1)/2 = ym */
+	
+}
+
+/* midpoint algorithm for a circle */
+function circle()
+{
+	// https://www.geeksforgeeks.org/mid-point-circle-drawing-algorithm/
+}
+
+/* midpoint algorithm for an ellipse */
+function ellipse()
+{
+	// http://www.cpp.edu/~raheja/CS445/MEA.pdf
+}
+
+/* algorithm for rectangle */
+function rectangle()
+{
+	// draw (only) FOUR line segments
+	
+	// check to see if y2 and y1 or x2 and x1 are equal when necessary to create vertical
+	// or horizontal line segments; thus creating a rectangle
+}
+
+/* algorithm for polygon (closed) */
+/* ruberbanding */
+function polygon()
+{
+	// draw three connecting lines from points on the graph
+	
+	// after the fourth point is chosen, connect the last plotted point to the first
+	
+	// allow continuation of selecting more points, each new last point, re connect it
+	// with the first drawn point (...and so on)
+}
+
+/* algorithm for polyline (open) */
+/* no ruberbanding */
+function polyline()
+{
+	// same thing as polygon, just no ruberbanding with the innitial point
+}
+
+/* clear canvas */
+function clear()
+{
+	//ctx.clearRect(0, 0, canvas.width, canvas.height);
+}
+
+// make function linked to canvas to grab points from mouseclicks
