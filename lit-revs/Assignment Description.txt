@@ -1,0 +1,21 @@
+You must turn in three brief summaries, each of which is of two technical papers you will read from current computer graphics literature. The purpose is to expose you to reading computer graphics literature and writing about it. You must select a primary paper of your choice from a recent (2016-2018) issue of one of the publications above. You must also select a secondary paper from those cited in the bibliography of the primary paper. Note that the secondary paper can come from any journal and can have any date. Both papers, however, must be "real" papers (i.e., from peer-reviewed journals or conference proceedings) and not news articles or other fluff. You must read both papers and write a short (at most 2,000 words) review of the topics covered by both papers with particular attention paid to how the two papers are related to each other. This is not an exercise in copying words from the papers. You must use your own thoughts and words to summarize and compare. Your best bet is to write your review paper without having the reviewed papers in front of your! You will be graded on both content and writing quality.
+
+Your review should give a sense of the general problem domain and how the two papers fit into that domain. It usually makes sense to describe the secondary paper first, since it will have been published prior to your primary paper.
+
+Upload PDF format or plain text (NOT an MS Word or other wordprocessor format!) litrature reviews:
+
+28-feb-2018, Literature Review 1
+21-mar-2018, Literature Review 2
+18-apr-2018, Literature Review 3
+
+Place another copy on your http://www.cs.uml.edu/~your-user-id/427546s2018/lit-revs/n directory, and a third one on GitHub, for n = 1, 2, 3, respectively.
+
+The following are some of the major sources for graphics-related literature (there are other):
+
+ACM Transactions on Graphics (TOG)
+IEEE Transactions on Visualization and Computer Graphics (TVCG)
+IEEE Computer Graphics and Applications (CG&A)
+ACM SIGGRAPH Computer Graphics (conference proceedings only, published as an ACM TOG issue)
+Computers and Graphics (C&G)
+Computer Graphics Forum (CGF)
+Visual Computer
