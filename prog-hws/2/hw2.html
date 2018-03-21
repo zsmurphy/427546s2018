@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang = "en">
+	<head>
+		<title>Project 1</title>
+		<meta charset = "UTF-8"/>
+		<meta name = "author" content = "Zachary Murphy"/>
+		<meta name = "viewport" content = "width = device-width, initial-scale = 1, shrink-to-fit = no">
+		<script type = "text/javascript" src = "http://code.jquery.com/jquery-3.3.1.min.js"></script>
+		<script type = "text/javascript" src = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script type = "text/javascript" src = "script/fractal.js"></script>
+		<script type = "text/javascript" src = "script/wheel.js"></script>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster&effect=brick-sign">
+		<link rel = "stylesheet" type = "text/css" href = "css/hw2.css">
+	</head>
+	<body>
+		<div class = "main">
+			<table align = "center">
+				<tr>
+					<td>
+						<h1 class = "canvasHeader">Square Fractal</h1>
+						<canvas id = "fractalCanvas"></canvas>
+					</td>
+					<td>
+						<h1 class = "canvasHeader">Wheel</h1>
+						<canvas id = "wheelCanvas"></canvas>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class = "attributeList">
+							<h2 class = "attributeHeader">Attribute Controls</h2>
+							<p class = "attribute">Ratio: 1 / <input class = "text" type = "text" size = "10" id = "ratio"/></p>
+							<p class = "attribute">Iterations (max 4): <input class = "text" type = "text" size = "10" id = "iterations"/></p>
+							<p class = "attribute">Side Length: <input class = "text" type = "text" size = "10" id = "sideLength"/></p>
+							<p class = "attribute">Color: <input class = "text" type = "text" size = "10" id = "fillColor"/></p>
+							<p><input class = "button centerButton" type = "button" value = "Submit Attributes" onclick = "fractal()"></p>
+						</div>
+					</td>
+					<td>
+						<div class = "attributeList">
+							<h2 class = "attributeHeader">Attribute Controls</h2>
+							<p class = "attribute">Driver Score: <input class = "text" type = "text" size = "10" id = "driverScore"/></p>
+							<p class = "attribute">Radius: <input class = "text" type = "text" size = "10" id = "radius"/></p>
+							<p class = "attribute">Line Thickness: <input class = "text" type = "text" size = "10" id = "lineWidth"/></p>
+							<p class = "attribute">Color: <input class = "text" type = "text" size = "10" id = "strokeColor"/></p>
+							<p><input class = "button centerButton" type = "button" value = "Submit Attributes" onclick = "wheel()"></p>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
