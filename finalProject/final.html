@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html lang = "en">
+	<head>
+		<meta charset = "UTF-8">
+		<title>Final Project</title>
+		<script type = "text/javascript" src = "script/final.js"></script>
+		<link rel = "stylesheet" type = "text/css" href = "css/final.css">
+	</head>
+	<body>
+		<div id = "screen">
+			<canvas id = "canvas">HTML5 CANVAS</canvas>
+			<div id = "title">
+				<h1>3D Cube</h1>
+			</div>
+			<div id = "info">
+				<div class = "background"></div>
+				<div class = "content">
+					<table id = "mainTable">
+						<tr>
+							<td>
+								<table>
+									<tr>
+										<td class = "w">drag</td>
+										<td>→ rotate X,Y axis</td>
+									</tr>
+									<tr>
+										<td class = "w">wheel</td>
+										<td>→ rotate Z axis</td>
+									</tr>
+								</table>
+							</td>
+							<td>
+								<input type = "checkbox" id = "autor"><label for = "autor"> auto rotation</label><br>
+							</td>
+							<td>
+								<span id = "fps" class = "w">0</span> FPS<br>
+							</td>
+							<td>
+								<p align = "center">
+									<input type = "button" value = "RESET" id = "reset" class = "button"></input>
+									<input type = "button" value = "STOP" id = "stopgo" class = "button"></input>
+								</p>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
