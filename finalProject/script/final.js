@@ -170,17 +170,17 @@
 		/* light */
 		/*if (this == faceOver)
 		{
-			var r = 0;
-			var g = 128;
-			var b = 256;
+			var r = 255;
+			var g = 184;
+			var b = 28;
 		}
 		else { }*/
 		
 		/* flat (lambert) shading */
 		this.normal.projection();
-		var r = (white ? this.normal.y + this.normal.z * 0.5 : this.normal.z) * 255;
-		var g = (white ? this.normal.y + this.normal.z * 0.5 : this.normal.z) * 184;
-		var b = (white ? this.normal.y + this.normal.z * 0.5 : this.normal.z) * 28;
+		var r = (white ? this.normal.y + this.normal.z * 0.5 : this.normal.z) * 256;
+		var g = (white ? this.normal.y + this.normal.z * 0.5 : this.normal.z) * 256;
+		var b = (white ? this.normal.y + this.normal.z * 0.5 : this.normal.z) * 256;
 		
 		/* fill */
 		canvas.ctx.fillStyle = "rgb(" + Math.round(r) + ", " + Math.round(g) + ", " + Math.round(b) + ")";
@@ -574,7 +574,7 @@
 		/* UI option: sheering*/
 		document.getElementById("sheering").onclick = function()
 		{
-			
+			//Not Implemented
 		}
 		
 		/* UI option: translation*/
@@ -741,7 +741,7 @@
 		//fps++;
 		if (running)
 		{
-			setTimeout(run, 8);
+			setTimeout(run, 10);
 		}
 	}
 	
