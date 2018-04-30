@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html lang = "en">
+	<head>
+		<meta charset = "UTF-8">
+		<title>Final Project</title>
+		<script type = "text/javascript" src = "script/final.js"></script>
+		<link rel = "stylesheet" href = "https://fonts.googleapis.com/css?family=Lobster&effect=brick-sign">
+		<link rel = "stylesheet" type = "text/css" href = "css/final.css">
+	</head>
+	<body>
+		<div id = "screen">
+			<canvas id = "canvas">HTML5 CANVAS</canvas>
+			<div id = "title">
+				<h1 class = "lobster">3D Cube</h1>
+			</div>
+			<div id = "info">
+				<div class = "background"></div>
+				<div class = "content">
+					<table id = "mainTable">
+						<tr>
+							<td>
+								<p align = "center">
+									<p class = "lobster">Projections</p>
+									<input type = "button" value = "Dimetric" id = "dimetric" class = "button"></input>
+									<input type = "button" value = "Trimetric" id = "trimetric" class = "button"></input>
+									<input type = "button" value = "Isometric" id = "isometric" class = "button"></input>
+									<input type = "button" value = "Orthographic" id = "orthographic" class = "button"></input>
+								</p>
+							</td>
+							<td>
+								<p align = "center">
+									<p class = "lobster">Transformations</p>
+									<input type = "button" value = "Sheering" id = "sheering" class = "button"></input>
+									<input type = "button" value = "Start Translation" id = "translation" class = "button"></input>
+								</p>
+							</td>
+							<td>
+								<p align = "center">
+									<p class = "lobster">Basic Features</p>
+									<input type = "button" value = "Stop Animation" id = "stopstart" class = "button"></input>
+									<input type = "button" value = "Start Autorotation" id = "autorotate" class = "button"></input>
+									<input type = "button" value = "RESET" onclick = "document.location.reload(true)" class = "button"></input>
+								</p>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
